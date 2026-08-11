@@ -1,0 +1,500 @@
+key,value
+Visual Studio Code,Developer
+Visual Studio,Developer
+JetBrains IntelliJ IDEA,Developer
+PyCharm,Developer
+WebStorm,Developer
+PhpStorm,Developer
+CLion,Developer
+GoLand,Developer
+RubyMine,Developer
+DataGrip,Developer
+Android Studio,Developer
+Xcode,Developer
+Sublime Text,Developer
+Atom,Developer
+Notepad++,Developer
+Vim,Developer
+Neovim,Developer
+Emacs,Developer
+Eclipse,Developer
+NetBeans,Developer
+Cursor,Developer
+Windsurf,Developer
+Zed,Developer
+GitHub Desktop,Developer
+GitKraken,Developer
+Sourcetree,Developer
+Fork,Developer
+Tower,Developer
+SmartGit,Developer
+Docker Desktop,Developer
+Postman,Developer
+Insomnia,Developer
+Bruno,Developer
+Hoppscotch,Developer
+TablePlus,Developer
+DBeaver,Developer
+MySQL Workbench,Developer
+pgAdmin,Developer
+Sequel Ace,Developer
+Beekeeper Studio,Developer
+Navicat,Developer
+Redis Desktop Manager,Developer
+MongoDB Compass,Developer
+iTerm2,Developer
+Windows Terminal,Developer
+Hyper,Developer
+Warp,Developer
+Alacritty,Developer
+Kitty,Developer
+WezTerm,Developer
+Ghostty,Developer
+PuTTY,Developer
+MobaXterm,Developer
+Termius,Developer
+FileZilla,Developer
+WinSCP,Developer
+Cyberduck,Developer
+Wireshark,Developer
+Charles Proxy,Developer
+Fiddler,Developer
+mitmproxy,Developer
+VirtualBox,Developer
+VMware Workstation,Developer
+Parallels Desktop,Developer
+UTM,Developer
+Vagrant,Developer
+Postico,Developer
+Studio 3T,Developer
+Unity Hub,Developer
+Unreal Engine,Developer
+Godot,Developer
+Blender,Developer
+Processing,Developer
+Arduino IDE,Developer
+PlatformIO,Developer
+Fritzing,Developer
+KiCad,Developer
+Keil uVision,Developer
+MPLAB X,Developer
+STM32CubeIDE,Developer
+Rider,Developer
+Android Debug Bridge GUI,Developer
+Genymotion,Developer
+Expo Orbit,Developer
+Flutter DevTools,Developer
+React Native Debugger,Developer
+Robo 3T,Developer
+Azure Data Studio,Developer
+SSMS,Developer
+Toad for Oracle,Developer
+SQL Developer,Developer
+IntelliJ Toolbox,Developer
+JetBrains Gateway,Developer
+JetBrains Fleet,Developer
+CodeRunner,Developer
+Microsoft Word,Tool
+Microsoft Excel,Tool
+Microsoft PowerPoint,Tool
+Microsoft Outlook,Tool
+Microsoft OneNote,Tool
+Microsoft Teams,Tool
+Microsoft OneDrive,Tool
+Google Drive for Desktop,Tool
+Dropbox,Tool
+Box Drive,Tool
+Notion,Tool
+Obsidian,Tool
+Evernote,Tool
+OneNote,Tool
+Todoist,Tool
+TickTick,Tool
+Things 3,Tool
+Any.do,Tool
+Trello,Tool
+Asana Desktop,Tool
+ClickUp,Tool
+Monday.com Desktop,Tool
+Airtable,Tool
+Slack,Tool
+Zoom,Tool
+Google Meet,Tool
+Webex,Tool
+GoToMeeting,Tool
+1Password,Tool
+LastPass,Tool
+Bitwarden,Tool
+KeePassXC,Tool
+Dashlane,Tool
+NordPass,Tool
+Keeper Password Manager,Tool
+CCleaner,Tool
+Malwarebytes,Tool
+Avast Antivirus,Tool
+AVG AntiVirus,Tool
+Norton 360,Tool
+McAfee Total Protection,Tool
+Bitdefender,Tool
+Kaspersky,Tool
+ESET NOD32,Tool
+Windows Defender,Tool
+F-Secure,Tool
+TeamViewer,Tool
+AnyDesk,Tool
+Chrome Remote Desktop,Tool
+Splashtop,Tool
+RustDesk,Tool
+LogMeIn,Tool
+Adobe Acrobat Reader,Tool
+Adobe Acrobat Pro,Tool
+Foxit PDF Reader,Tool
+PDF Expert,Tool
+PDFsam,Tool
+Nitro PDF,Tool
+Smallpdf Desktop,Tool
+WinRAR,Tool
+7-Zip,Tool
+WinZip,Tool
+Keka,Tool
+The Unarchiver,Tool
+PeaZip,Tool
+Speedtest by Ookla,Tool
+AccuWeather,Tool
+Weather Live,Tool
+f.lux,Tool
+CleanMyMac,Tool
+App Cleaner,Tool
+Disk Drill,Tool
+EaseUS Data Recovery,Tool
+Recuva,Tool
+Carbon Copy Cloner,Tool
+SuperDuper,Tool
+Time Machine,Tool
+Backblaze,Tool
+Carbonite,Tool
+Acronis True Image,Tool
+Macrium Reflect,Tool
+GoodSync,Tool
+FreeFileSync,Tool
+Syncthing,Tool
+Resilio Sync,Tool
+Nextcloud Desktop,Tool
+ownCloud Desktop,Tool
+WeTransfer Desktop,Tool
+ShareX,Tool
+Greenshot,Tool
+Lightshot,Tool
+Snagit,Tool
+CleanShot X,Tool
+Skitch,Tool
+Alfred,Tool
+Raycast,Tool
+PowerToys,Tool
+Fluent Search,Tool
+Everything Search,Tool
+Listary,Tool
+Launchy,Tool
+Wox,Tool
+Rectangle,Tool
+Magnet,Tool
+Spectacle,Tool
+BetterSnapTool,Tool
+DisplayFusion,Tool
+BetterDisplay,Tool
+Amphetamine,Tool
+Caffeine,Tool
+Spotify,Media
+Apple Music,Media
+YouTube Music Desktop,Media
+Tidal,Media
+Deezer,Media
+Amazon Music,Media
+Qobuz,Media
+Netflix (Windows app),Media
+Disney+ Desktop,Media
+Plex,Media
+Plex Media Server,Media
+Plexamp,Media
+Jellyfin,Media
+Kodi,Media
+Infuse,Media
+IINA,Media
+MPV,Media
+MPC-HC,Media
+PotPlayer,Media
+GOM Player,Media
+5KPlayer,Media
+Elmedia Player,Media
+Steam,Media
+Epic Games Launcher,Media
+GOG Galaxy,Media
+Battle.net,Media
+Origin,Media
+EA App,Media
+Ubisoft Connect,Media
+Xbox App,Media
+PlayStation Remote Play,Media
+Rockstar Games Launcher,Media
+itch.io App,Media
+Twitch,Media
+OBS Studio,Media
+Streamlabs Desktop,Media
+XSplit,Media
+Discord,Media
+TeamSpeak,Media
+Mumble,Media
+Ventrilo,Media
+Audacity,Media
+GarageBand,Media
+Logic Pro,Media
+Ableton Live,Media
+FL Studio,Media
+Cubase,Media
+Reason,Media
+Reaper,Media
+foobar2000,Media
+MusicBee,Media
+Winamp,Media
+iTunes,Media
+MediaMonkey,Media
+Clementine,Media
+Musique,Media
+Amarok,Media
+HandBrake,Media
+Shotcut,Media
+DaVinci Resolve,Media
+Premiere Pro,Media
+Final Cut Pro,Media
+iMovie,Media
+Adobe Media Encoder,Media
+Kdenlive,Media
+OpenShot,Media
+VSDC Free Video Editor,Media
+Filmora,Media
+CapCut Desktop,Media
+MKVToolNix,Media
+Adobe Photoshop,Creative
+Adobe Illustrator,Creative
+Adobe InDesign,Creative
+Adobe Lightroom,Creative
+Adobe XD,Creative
+Adobe Premiere Pro,Creative
+Adobe After Effects,Creative
+Adobe Animate,Creative
+Adobe Bridge,Creative
+Adobe Dimension,Creative
+Affinity Photo,Creative
+Affinity Designer,Creative
+Affinity Publisher,Creative
+Figma Desktop,Creative
+Sketch,Creative
+Canva Desktop,Creative
+GIMP,Creative
+Inkscape,Creative
+Krita,Creative
+Procreate,Creative
+CorelDRAW,Creative
+Paint.NET,Creative
+Paint Tool SAI,Creative
+Clip Studio Paint,Creative
+ZBrush,Creative
+Cinema 4D,Creative
+Autodesk Maya,Creative
+Autodesk 3ds Max,Creative
+SketchUp,Creative
+Rhino 3D,Creative
+AutoCAD,Creative
+Fusion 360,Creative
+SolidWorks,Creative
+FreeCAD,Creative
+OnShape Desktop,Creative
+LightWave 3D,Creative
+Houdini,Creative
+Substance Painter,Creative
+Substance Designer,Creative
+ZBrushCore,Creative
+Marvelous Designer,Creative
+CapCut,Creative
+Camtasia,Creative
+ScreenFlow,Creative
+Loom Desktop,Creative
+Screen Studio,Creative
+Descript,Creative
+FontForge,Creative
+Glyphs,Creative
+FontLab,Creative
+TypeCatcher,Creative
+Musescore,Creative
+Sibelius,Creative
+Finale,Creative
+Native Instruments Komplete Kontrol,Creative
+Serato DJ,Creative
+Traktor,Creative
+Rekordbox,Creative
+Photomator,Creative
+Pixelmator Pro,Creative
+Luminar Neo,Creative
+ON1 Photo RAW,Creative
+QuickBooks Desktop,Finance
+QuickBooks Online App,Finance
+Xero,Finance
+FreshBooks Desktop,Finance
+Wave Accounting,Finance
+Sage 50,Finance
+Sage Intacct,Finance
+Zoho Books,Finance
+MYOB,Finance
+Microsoft Money,Finance
+Quicken,Finance
+YNAB (You Need A Budget),Finance
+Mint Desktop,Finance
+Personal Capital,Finance
+Banktivity,Finance
+Moneydance,Finance
+GnuCash,Finance
+HomeBank,Finance
+TurboTax,Finance
+H&R Block Tax Software,Finance
+TaxAct,Finance
+FreeTaxUSA Desktop,Finance
+Coinbase Desktop,Finance
+Binance Desktop,Finance
+Kraken Desktop,Finance
+Exodus Wallet,Finance
+Electrum,Finance
+Ledger Live,Finance
+Trezor Suite,Finance
+MetaTrader 4,Finance
+MetaTrader 5,Finance
+Thinkorswim,Finance
+TradingView Desktop,Finance
+NinjaTrader,Finance
+cTrader,Finance
+Bloomberg Terminal,Finance
+Salesforce Desktop,Finance
+HubSpot Desktop,Finance
+Zendesk,Finance
+Freshdesk,Finance
+Odoo Desktop,Finance
+SAP Business One,Finance
+NetSuite,Finance
+Microsoft Dynamics 365,Finance
+Workday,Finance
+WhatsApp Desktop,Social
+Telegram Desktop,Social
+Messenger Desktop,Social
+Signal Desktop,Social
+WeChat Desktop,Social
+QQ,Social
+Skype,Social
+Viber Desktop,Social
+Line Desktop,Social
+Zalo Desktop,Social
+Element (Matrix),Social
+Session Desktop,Social
+Threema Desktop,Social
+Kik,Social
+GroupMe Desktop,Social
+Tango,Social
+ICQ,Social
+Snapchat for Windows,Social
+Instagram (Windows app),Social
+TikTok for Desktop,Social
+X (Twitter) Desktop,Social
+Nextdoor Desktop,Social
+"Mastodon Desktop Clients (Ivory, Ice Cubes)",Social
+Bluesky Desktop,Social
+Ferdium,Social
+Shopify POS,Commerce
+Lightspeed POS,Commerce
+Vend POS,Commerce
+Etsy Seller App Desktop,Commerce
+Amazon Seller App Desktop,Commerce
+eBay Desktop App,Commerce
+WooCommerce Desktop Manager,Commerce
+Zoho Inventory Desktop,Commerce
+TradeGecko Desktop,Commerce
+StockX Desktop,Commerce
+Feedly Desktop,Information
+Inoreader Desktop,Information
+NetNewsWire,Information
+Reeder,Information
+NewsBlur Desktop,Information
+FeedDemon,Information
+Flipboard Desktop,Information
+Apple News (macOS),Information
+Microsoft News App,Information
+News Break Desktop,Information
+Pocket Desktop,Information
+Instapaper Desktop,Information
+Readwise Reader Desktop,Information
+Duolingo Desktop,Education
+Rosetta Stone Desktop,Education
+Anki,Education
+Quizlet Desktop,Education
+Khan Academy Desktop,Education
+Coursera Desktop App,Education
+Udemy Desktop,Education
+edX Desktop,Education
+Brainscape Desktop,Education
+Memrise Desktop,Education
+MATLAB,Education
+Mathematica,Education
+Maple,Education
+SPSS,Education
+Stata,Education
+R Studio,Education
+JASP,Education
+Jupyter Notebook,Education
+Jupyter Lab,Education
+Anaconda Navigator,Education
+GeoGebra,Education
+Scratch,Education
+Codecademy Desktop,Education
+MyFitnessPal Desktop,Health
+Fitbit Connect,Health
+Garmin Connect,Health
+Strava Desktop,Health
+Peloton Desktop App,Health
+Headspace Desktop,Health
+Calm Desktop,Health
+Apple Health (companion apps),Health
+Withings Health Mate Desktop,Health
+Noom Desktop,Health
+Sleep Cycle Desktop,Health
+WHOOP Desktop,Health
+Google Earth Pro,Travel
+Google Maps (Electron wrappers),Travel
+Garmin BaseCamp,Travel
+TripIt Desktop,Travel
+Waze (unofficial desktop wrappers),Travel
+Maps.me Desktop,Travel
+OsmAnd Desktop,Travel
+GPS Visualizer,Travel
+FlightAware Desktop,Travel
+Flighty Desktop,Travel
+AwardWallet Desktop,Travel
+IRS Free File Software (desktop tax prep),Government
+eFile.com Desktop,Government
+DMV Now Kiosk Software,Government
+USPS Click-N-Ship Desktop,Government
+SSA my Social Security Desktop Companion,Government
+Everything (voidtools),Search
+DocFetcher,Search
+Copernic Desktop Search,Search
+X1 Search,Search
+Agent Ransack,Search
+eHarmony Desktop Companion,Dating
+Match.com Desktop,Dating
+Paprika Recipe Manager,Lifestyle
+Yummly Desktop,Lifestyle
+Plan to Eat Desktop,Lifestyle
+Home Assistant Desktop,Lifestyle
+SmartThings Desktop,Lifestyle
+Sweet Home 3D,Lifestyle
+Chief Architect Home Designer,Lifestyle
+IKEA Home Planner Desktop,Lifestyle
+Houzz Desktop,Lifestyle
+OpenTable Desktop,Lifestyle
+Resy Desktop,Lifestyle
