@@ -1,4 +1,5 @@
 APP_NAME := flowvia
+APPIMAGE := Flowvia-0.1.0-x86_64.AppImage
 SRC      := src/main.cpp
 BIN_DIR  := bin
 CC       := g++
@@ -29,7 +30,7 @@ ifeq ($(DETECTED_OS),Linux)
 	cp $(BINARY) build/Flowvia.AppDir/usr/bin/
 	wget -N https://github.com/AppImage/AppImageKit/releases/download/continuous/appimagetool-x86_64.AppImage -O build/tools/appimagetool
 	chmod +x build/tools/appimagetool
-	./build/tools/appimagetool build/Flowvia.AppDir dist/$(APP_NAME).AppImage
+	./build/tools/appimagetool build/Flowvia.AppDir dist/$(APPIMAGE)
 else
 	@echo "AppImage is Linux-only — skipping on $(DETECTED_OS). Binary is at $(BINARY)."
 endif
