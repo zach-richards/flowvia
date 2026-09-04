@@ -2,8 +2,7 @@
 
 > **Work in Progress** — An open-source project built to help visualize and maintain focus.
 
-[![Status](https://img.shields.io/badge/status-WIP-orange.svg)](#-status)  
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](#-license)
+[![Status](https://img.shields.io/badge/status-WIP-orange.svg)](#-status)[![License](https://img.shields.io/badge/license-MIT-blue.svg)](#-license)
 
 ---
 
