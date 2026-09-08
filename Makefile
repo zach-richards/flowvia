@@ -1,6 +1,6 @@
 APP_NAME := flowvia
 APPIMAGE := Flowvia-0.1.0-x86_64.AppImage
-SRC      := src/main.cpp
+SRC      := src/main.cpp src/tracking/window.cpp
 BIN_DIR  := bin
 CC       := g++
 

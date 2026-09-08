@@ -1,6 +1,9 @@
-// window.cpp
+// window.hpp
+
+#pragma once
 
 #include <string>
+#include <unordered_map>
 using namespace std;
 
 class Window {
@@ -14,3 +17,7 @@ public:
     string getVisibleName() const { return visibleName; }
     string getClassName() const { return className; }
 };
+
+struct Window* WindowPtr;
+
+void runWindowTracking();

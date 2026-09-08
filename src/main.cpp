@@ -1,13 +1,15 @@
 // main.cpp
 
-#include <unistd.h>
-#include <iostream>
+#include <thread>
 using namespace std;
 
-int main() {
-    cout << "Hello World!";
+#include "../include/tracking/window.hpp"
 
-    sleep(5);
+int main() {
+    // initializeCognitiveModel();
+
+    thread windowTrackingThread(window::runWindowTrackingLoop);
+    // std::thread inputTrackingThread(tracking::input::runInputTrackingLoop());
 
     return 0;
 }
